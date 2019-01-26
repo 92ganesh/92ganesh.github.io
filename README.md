@@ -1,2 +1,2 @@
 # 92ganesh.github.io
-website showing overview of my GitHub profile
+Website showing overview of my GitHub profile
