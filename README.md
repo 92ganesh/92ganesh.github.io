@@ -12,3 +12,5 @@ GBH KJSCE
 ## [PROlogue](https://92ganesh.github.io/PROlogue/)
 Its a webapp for optimizing the process of appointing members for a particular event. This project was part of KJSCE hackathon 2018. 
 
+## [GitPractice](https://92ganesh.github.io/GitPractice/)
+something
